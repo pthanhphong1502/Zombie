@@ -1,0 +1,19 @@
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\bin\Debug\Game băn Zombie.exe.config
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\bin\Debug\Game băn Zombie.exe
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\bin\Debug\Game băn Zombie.pdb
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.csprojAssemblyReference.cache
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.Form1.resources
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.Properties.Resources.resources
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.csproj.GenerateResource.cache
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.csproj.CoreCompileInputs.cache
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.exe
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.pdb
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.FormHuongDan.resources
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.FormQuanly.resources
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.Game.resources
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\bin\Debug\Interop.WMPLib.dll
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Interop.WMPLib.dll
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game băn Zombie.csproj.ResolveComReference.cache
+C:\Users\phong\Documents\LTTQ\Đồ án\Đồ án CKLTTQ\Game băn Zombie\obj\Debug\Game_băn_Zombie.FormDangNhap.resources
